@@ -1,7 +1,6 @@
 Unity Platformer that I made for social studies
 ===============================================
 
-## Welcome to my game
-I hope it's fun
+Welcome to my game!
 
-You can play it online or download it for Windows
+This is the repository website where I host the online version of my game, and I also have download links (coming soon)
